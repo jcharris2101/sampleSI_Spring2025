@@ -1,5 +1,5 @@
 fPrncInv = float(input("What's the principal investment? "))
-fIntRate = float(input("What's the interest rate? ")) / 100.0 # <-- Convert to decimal here instead of further down
+fIntRate = float(input("What's the interest rate? ")) / 100.0
 iCompound = int(input("How many times per year is the interest compounded? "))
 fNumPeriods = float(input("How many years will it earn interest? "))
 
